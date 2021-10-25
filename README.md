@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diya Waghmare</h1>
 <h3 align="center">I'm a Sophomore at IIIT Allahabad and a passionate learner of all things Dev!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyawaghmare" alt="diyawaghmare" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyawaghmare" alt="diyawaghmare" /></a> </p>
 
-- 😄 My pronouns are **She/Her
+- 😄 My pronouns are **She/Her**
 
 - 🔭 I’m currently working on [My Personal Website](https://github.com/diyawaghmare/personal)
 
@@ -22,6 +22,8 @@
 - 📫 How to reach me **diya.waghmare@gmail.com**
 
 - 📄 Know about my experiences on my [Personal website](https://diyawaghmare.github.io/personal/)
+
+<br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
