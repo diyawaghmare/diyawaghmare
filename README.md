@@ -27,6 +27,7 @@
 ### Blogs posts
 [![Diya's Medium](https://github-readme-medium.vercel.app/?username=diya.waghmare&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@diya.waghmare)
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Game Basics in 5 minutes](https://medium.com/@diya.waghmare/javascript-game-basics-in-5-minutes-9dc2c1fea616?source=rss-ad471a76e2c2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
