@@ -1,29 +1,25 @@
 <h1 align="center">Hi 👋, I'm Diya Waghmare</h1>
 <h3 align="center">I'm a Sophomore at IIIT Allahabad and a passionate learner of all things Dev!</h3>
 
+<br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diyawaghmare" alt="diyawaghmare" /></a> </p>
 
 <br>
 
 - 😄 My pronouns are **She/Her**
 
-- 🔭 I’m currently working on [My Personal Website](https://github.com/diyawaghmare/personal)
+- 📄 Know about my experiences on my [Personal website](https://diyawaghmare.github.io/personal/)
 
 - 🌱 I’m currently learning **JavaScript, Reactjs, Nodejs, Djangorestframework, Android Development**
 
-- 👯 I’m looking to collaborate on [Flappy Bird](https://github.com/diyawaghmare/flappy-bird)
-
-- 🤝 I’m looking for help with [To-Do List](https://github.com/diyawaghmare/to-do)
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/diyawaghmare)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@diya.waghmare)
 
 - 💬 Ask me about **HTML, CSS and Design!**
 
 - 📫 How to reach me **diya.waghmare@gmail.com**
 
-- 📄 Know about my experiences on my [Personal website](https://diyawaghmare.github.io/personal/)
+
 
 <br>
 
@@ -52,7 +48,7 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyawaghmare&show_icons=true&locale=en&layout=compact" alt="diyawaghmare" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyawaghmare&show_icons=true&locale=en&layout=compact" alt="diyawaghmare" /></p>
 
 <br>
 
