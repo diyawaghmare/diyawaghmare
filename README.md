@@ -1,4 +1,5 @@
 ![Diya's intro](./header.png)
+***
 <h3 align="center">I'm a Sophomore at IIIT Allahabad and a passionate learner of all things Dev!</h3>
 
 <br>
