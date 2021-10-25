@@ -19,8 +19,7 @@
 - 💬 Ask me about **HTML, CSS and Design!**
 
 - 📫 How to reach me **diya.waghmare@gmail.com**
-
-
+***
 
 <br>
 
