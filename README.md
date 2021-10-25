@@ -48,11 +48,11 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyawaghmare&show_icons=true&locale=en&layout=compact" alt="diyawaghmare" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyawaghmare&theme=dark&show_icons=true&locale=en&layout=compact" alt="diyawaghmare" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyawaghmare&show_icons=true&locale=en" alt="diyawaghmare" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diyawaghmare&theme=dark&show_icons=true&locale=en" alt="diyawaghmare" /></p>
 
 <br>
 
