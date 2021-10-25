@@ -44,7 +44,8 @@
 <a href="https://auth.geeksforgeeks.org/user/diyawaghmare/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="diyawaghmare/profile" height="30" width="40" /></a>
 <a href="https://discord.gg/#9781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9781" height="30" width="40" /></a>
 </p>
-***
+
+---
 
 <br>
 
@@ -54,7 +55,8 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diyawaghmare&theme=dark&show_icons=true&locale=en&layout=compact" alt="diyawaghmare" /></p>
-***
+
+---
 
 
 <br>
