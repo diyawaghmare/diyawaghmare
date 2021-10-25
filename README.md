@@ -57,6 +57,6 @@
 
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=diyawaghmare&theme=dark&show_icons=true&locale=en" alt="diyawaghmare" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=diyawaghmare&theme=dark&show_icons=true&locale=en" alt="diyawaghmare" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=diyawaghmare&theme=dark&date_format=j%20M%5B%20Y%5D" alt="diyawaghmare" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=diyawaghmare&theme=dark&date_format=j%20M%5B%20Y%5D" alt="diyawaghmare" /></p>
