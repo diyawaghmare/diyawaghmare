@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences on my [Personal website](https://diyawaghmare.github.io/personal/)
 
-- 🌱 I’m currently learning **JavaScript, Reactjs, Nodejs, Djangorestframework, Android Development**
+- 🌱 I’m currently learning **JavaScript, Djangorestframework, and Android Development**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/diyawaghmare)
 
@@ -25,7 +25,7 @@
 <br>
 
 ### Blogs posts
-[![Diya's Medium](https://github-readme-medium.vercel.app/?username=diya.waghmare&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@diya.waghmare)
+[![Diya's Medium](https://github-readme-medium.vercel.app/?username=diya.waghmare&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@omidnikrah)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
