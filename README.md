@@ -44,7 +44,9 @@
 
 
 <br>
-### Blogs posts
+
+<h3 align="left">Blog posts:</h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Game Basics in 5 minutes](https://medium.com/@diya.waghmare/javascript-game-basics-in-5-minutes-9dc2c1fea616?source=rss-ad471a76e2c2------2)
 <!-- BLOG-POST-LIST:END -->
