@@ -1,5 +1,6 @@
 ![Diya's intro](./header.png)
 ***
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Diya)](https://git.io/typing-svg)
 <h3 align="center">I'm a Sophomore at IIIT Allahabad and a passionate learner of all things Dev!</h3>
 
 <br>
