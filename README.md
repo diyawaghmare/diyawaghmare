@@ -10,6 +10,8 @@
 
 - 😄 My pronouns are **She/Her**
 
+- 📚 My hobbies include **Reading, Watching movies, and Listening to music**
+
 - 📄 Know about my experiences on my [Personal website](https://diyawaghmare.github.io/personal/)
 
 - 🌱 I’m currently learning **JavaScript, Djangorestframework, and Android Development**
